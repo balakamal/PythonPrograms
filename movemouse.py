@@ -9,4 +9,4 @@ while True:
     mouse.moveRel(150, 0)
     c += 1
     print("Move : " + str(c))
-    t.sleep(5)
+    t.sleep(10)
